@@ -1,3 +1,12 @@
-show_excerpts: true
 
+title: Motley Misadventures
+author: Haaris Siddiqui
+email: haaris.ny@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Forays into algorithms, design, programming languages, computer vision, and more.
+# social links
+twitter_username: excursos
+github_username:  Haaris-S
+
+show_excerpts: false # set to false to remove excerpts on the homepage
 theme: minima
